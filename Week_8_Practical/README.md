@@ -1,6 +1,6 @@
 *READ ME*
 
-Week 7 practical codes include:
+Week 8 practical codes include:
 1. gcd.c
 
 

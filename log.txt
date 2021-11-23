@@ -1,0 +1,119 @@
+commit 4d50e5fbe68b88baaab4d850d8b0c374ee945098
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Tue Nov 23 23:49:24 2021 +0000
+
+    Typo in README.md
+
+commit 57b93a72ffb15ae4b60325f51f6078a363ca81be
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Tue Nov 23 23:48:23 2021 +0000
+
+    Adding Week_10_Practical
+
+commit a0ae620ed19fa721248036ffb763d4742885422a
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Tue Nov 23 23:42:28 2021 +0000
+
+    Adding Week_9_Practical
+
+commit 6b9869bfa68faf904d28e48cb2c93e6afc222155
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Tue Nov 23 23:12:04 2021 +0000
+
+    Removing unknown file
+
+commit b639f9a0026c59d178b9262f9af6ba3f7adde1f0
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Tue Nov 23 23:08:47 2021 +0000
+
+    Adding Week_8_Practical
+
+commit edb222e561c452fa32e4bc90bba54368ebcb8fbf
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Tue Nov 23 21:30:15 2021 +0000
+
+    Adding Week_6_Practical
+
+commit 8595d947107543e6f764c78902194c814448658f
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Tue Nov 23 20:51:57 2021 +0000
+
+    Adding Week_7_Practical
+
+commit dcf52b5e2b719ecb79f54ddd1f8ecd2b178cce73
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Tue Nov 23 18:51:02 2021 +0000
+
+    Removing myfile.txt
+
+commit 49a62bc68929ac6f924161069f692ff8c610a162
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Tue Nov 23 18:49:45 2021 +0000
+
+    Update to Week_5_Practical
+
+commit 2c29dc5656c2778c87ede162b46a82584332ca31
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Tue Nov 23 18:47:19 2021 +0000
+
+    Update to Week_5_Practical
+
+commit 2ab9624212e65cd1b3cf090d1e89446ba5d3bf41
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Tue Nov 23 18:37:56 2021 +0000
+
+    Adding Week_5_Practical
+
+commit bbf0abf92f435cc50fc71ef7d8e3f84c5638ba9a
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Sun Nov 21 17:32:40 2021 +0000
+
+    Adding Week_4_Practical to respitory
+
+commit 56530302a75db1d42d26987dfb1b1bc7a9b80c68
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Sun Nov 21 16:55:22 2021 +0000
+
+    Adding Week_3_practical
+
+commit 68de3ac7efe52e4759ed2096ba03e8ac2296d0ed
+Author: Kate Hawksby <kate.hawksby1@gmail.com>
+Date:   Wed Nov 17 20:32:05 2021 +0000
+
+    Added some text to myfile.txt for first commit
+
+commit d73705f03d6ebbdcb2b2de6df5a51065b26acefc
+Author: Kate Hawksby <sp82@sciprog.aws1.ichec.ie>
+Date:   Wed Nov 17 19:59:48 2021 +0000
+
+    Deleted print.c
+
+commit ca8ff5ab874eaeaf25daf810186dc1db4432002a
+Author: Kate Hawksby <sp82@sciprog.aws1.ichec.ie>
+Date:   Wed Nov 17 19:53:45 2021 +0000
+
+    README.md removed
+
+commit 3a465b6550eed4440976f1fe230bdb02cfb09972
+Author: Kate <sp82@sciprog.aws1.ichec.ie>
+Date:   Wed Nov 17 19:38:52 2021 +0000
+
+    Adding folder Week_2_Practical to git respitory
+
+commit bba58bbcf7731617d0b60fa57fc48a1c054e2f08
+Author: cilwerner <59959532+cilwerner@users.noreply.github.com>
+Date:   Tue Sep 28 08:58:29 2021 +0100
+
+    Updated formatting errors
+
+commit 4a18ed3e12f84ae309605d2f7862ec60750dedaa
+Author: cilwerner <59959532+cilwerner@users.noreply.github.com>
+Date:   Tue Sep 28 08:57:59 2021 +0100
+
+    Filled README.md with full instructions
+
+commit 312a9b3083fa3e5de0bb35276d886acf9d385dfb
+Author: cilwerner <59959532+cilwerner@users.noreply.github.com>
+Date:   Mon Sep 27 11:59:24 2021 +0100
+
+    Initial commit
